@@ -1,0 +1,160 @@
+#upfp-posts-create{
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #cfcfcf;
+}
+
+#upfp-posts-create-header {
+    background: #eee none repeat scroll 0 0;
+    border-bottom: 1px solid #cfcfcf;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+#upfp-posts-create-form{
+    padding: 10px 20px;
+}
+
+.upfp-posts-row{
+    margin: 10px 0;
+}
+.upfp-posts-label{
+    float: left;    
+    width: 200px;
+    max-width: 40%;
+}
+
+.upfp-posts-field{
+    float: left;
+    width: 60%;
+}
+
+.upfp-clear{
+    clear: both;
+}
+
+#upfp-posts-dashboard{
+    font-family: Open Sans,"Helvetica","Arial";
+    font-size: 14px;
+    color: #888;
+    line-height: 26px;
+}
+
+.upfp-required{
+    color: red;
+}
+
+#upfp-posts-dashboard .wp-editor-container {
+    border: 1px solid #cfcfcf;
+    clear: both;
+}
+
+#upfp-posts-dashboard .wp-editor-tabs button:active{
+	background: #f5f5f5; /* Old browsers */
+	border: none;
+	padding: 3px 8px 4px !important;
+}
+
+#upfp-posts-dashboard .wp-editor-tabs button:focus{
+	background: #f5f5f5; /* Old browsers */
+	border: none;
+	padding: 3px 8px 4px !important;
+}
+
+#upfp-posts-dashboard .wp-editor-wrap{
+    margin-bottom: 10px;
+}
+
+.upfp-post-edit,.upfp-post-delete{
+    background: #eee none repeat scroll 0 0;
+    border: 1px solid #cfcfcf;
+    padding: 5px 10px;
+}
+
+.upfp-post-field-value {
+    float: left;
+    width: 60%;
+}
+
+.upfp-post-field-buttons{
+    float: left;
+    width: 20%;
+}
+
+
+#upfp_edit_post_featured_image_panel {
+    border: 4px solid #eee;
+    float: left;
+    margin: 5px;
+    outline: 1px solid #cfcfcf;
+    text-align: center;
+    width: 100px;
+}
+#upfp_edit_post_featured_image_delete {
+    background: #1391da none repeat scroll 0 0;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+.upfp_ajax_panel{
+    margin: 20px 10px;
+}
+
+#upfp_post_submit{
+    float: left;
+}
+
+#upfp_edit_post_update_ajax,#upfp_new_post_ajax{
+    float: left;
+    margin: 5px 10px;
+}
+
+#upfp-edit-posts-message,#upfp-new-posts-message{
+    display: none;
+}
+
+.upfp-success{
+    background: #d8f7c1 none repeat scroll 0 0;
+    border: 1px solid #a1d47b;
+    color: #527638;
+    border-radius: 3px;
+    display: block;
+    font-size: 12px;
+    margin: 10px 0 20px;
+    padding: 4px 15px;
+}
+
+.upfp-error{
+    background: #ffdbdb none repeat scroll 0 0;
+    border: 1px solid #ffb4b4;
+    color: #ac2c2c;
+    border-radius: 3px;
+    display: block;
+    font-size: 12px;
+    margin: 10px 0 20px;
+    padding: 4px 15px;
+}
+
+#upfp_more_posts{
+    color: #4b4a4a;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: center;
+    width: 90%;
+}
+
+#upfp-delete-post-ajax-loader{
+    display: none;
+    border: 1px solid #cfcfcf;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#upfp-delete-post-ajax-loader img{
+    margin: auto;
+}
